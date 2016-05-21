@@ -1,0 +1,4 @@
+#!/usr/bin/perl
+# Make perl behave like cat by making it think the following line is
+# line 1
+#!/usr/bin/perl -pn
